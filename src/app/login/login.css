@@ -1,0 +1,20 @@
+body {
+    background-color: red;
+}
+
+.login-container {
+    width: 320px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #fff;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
